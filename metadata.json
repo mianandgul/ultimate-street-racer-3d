@@ -1,0 +1,6 @@
+{
+  "name": "Ultimate Street Racer 3D",
+  "description": "High-octane 3D car racing game with sports cars, dynamic city highway, AI traffic, nitro boost, unlockable vehicles, and custom Web Audio engine sound.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
